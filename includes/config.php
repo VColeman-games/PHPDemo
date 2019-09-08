@@ -13,7 +13,7 @@ function config($key = '')
         'site_url' => 'https://colemanphpdemo.herokuapp.com',
         'nav_menu' => [
             '' => 'Home',
-            'about-us' => 'About Us',
+            'about-us' => 'About Valencia',
             'contact' => 'Contact'
         ],
         'template_path' => 'template',
