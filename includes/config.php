@@ -8,13 +8,13 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple PHP Website',
+        'name' => 'Favorite Game Series',
         'pretty_uri' => false,
         'site_url' => 'https://colemanphpdemo.herokuapp.com',
         'nav_menu' => [
-            '' => 'Home',
+            '' => 'Game Series',
             'about-us' => 'About Valencia',
-            'contact' => 'Contact'
+            'contact' => 'Contact Valencia'
         ],
         'template_path' => 'template',
         'content_path' => 'content',
